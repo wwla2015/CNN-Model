@@ -1,2 +1,2 @@
 # Deep-Learning Assignment
-## Develop a classifier using CIFAR-10 dataset
+## Develop an image classification model using CIFAR-10 dataset
